@@ -72,11 +72,6 @@ Langkah-langkah untuk menjalankan project ini di lokal:
     php artisan serve
     ```
 
-## 👤 Akun Login (Seeder)
-
-- **Email:** user@example.com  
-- **Password:** password
-
 ## 📌 Catatan
 
 - Belum ada fitur autentikasi multi-role.
